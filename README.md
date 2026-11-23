@@ -11,5 +11,4 @@ python PythonDashEnerginet.py
 Then open http://127.0.0.1:8050
 
 ## Data
-Energinet, Energi Data Service — Production and Consumption – Settlement, 2025.
-Licensed under CC BY 4.0. The CSV here is the cleaned output of my Power Query steps.
+Energinet, Energi Data Service. The CSV here is the cleaned output of my Power Query steps.
